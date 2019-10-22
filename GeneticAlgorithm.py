@@ -94,8 +94,7 @@ class GeneticAlgorithm(object):
         """
         The purpose of this function is to create a temporary dataframe where a mating pool is chosen from the existing
         population using a version of natural selection that weighs the chance of being selected based on the
-        chromosomes fitness value. This function is not yet implemented. As it stands now, all members of n population
-        mate in order to make n+1 generation.
+        chromosomes fitness value.
         :return: none.
         """
 
