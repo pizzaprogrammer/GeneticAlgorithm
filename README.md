@@ -1,5 +1,5 @@
 # GeneticAlgorithm
-Copyright 2019 by Marco Costa
+Copyright 2019 by me
 
 You are free to use my code however you want. Have at!
 
