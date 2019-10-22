@@ -92,9 +92,9 @@ class GeneticAlgorithm(object):
 
     def _mating_pool(self):
         """
-        The purpose of this function is to create a temporary dataframe where a mating pool is chosen from the existing
+        The purpose of this function is to create a dataframe where a mating pool is chosen from the existing
         population using a version of natural selection that weighs the chance of being selected based on the
-        chromosomes fitness value.
+        chromosomes fitness value. A particular chromosome may appear more than once in the mating pool.
         :return: none.
         """
 
