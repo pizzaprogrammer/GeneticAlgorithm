@@ -1,6 +1,6 @@
 """
 A simple implementation of a Genetic Algorithm.
-Copyright (c) 2019 Marco Costa
+Copyright (c) 2019 Me
 """
 
 
